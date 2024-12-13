@@ -15,3 +15,10 @@
 2024-12-13 22:03:27.504 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-12-13 22:03:27.505 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
 2024-12-13 22:03:27.507 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-12-13 22:06:58.875 [info] ExtensionService#_doActivateExtension golang.go, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2024-12-13 22:06:58.875 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2024-12-13 22:06:58.876 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2024-12-13 22:06:58.876 [info] ExtensionService#_doActivateExtension vscjava.vscode-java-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2024-12-13 22:07:05.889 [warning] [Decorations] CAPPING events from decorations provider vscode.git 631
+2024-12-13 22:07:09.624 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-12-13 22:07:19.409 [warning] [Decorations] CAPPING events from decorations provider vscode.git 852
