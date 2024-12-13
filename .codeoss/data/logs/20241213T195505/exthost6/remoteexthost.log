@@ -1,0 +1,17 @@
+2024-12-13 22:03:23.158 [info] Extension host with pid 14568 started
+2024-12-13 22:03:23.158 [error] Error: EEXIST: file already exists, open '/home/allyelvis6569/.codeoss/data/User/workspaceStorage/6c8c33da/vscode.lock'
+2024-12-13 22:03:23.175 [info] Lock '/home/allyelvis6569/.codeoss/data/User/workspaceStorage/6c8c33da/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-12-13 22:03:23.181 [info] Lock '/home/allyelvis6569/.codeoss/data/User/workspaceStorage/6c8c33da/vscode.lock': The lock does not look stale, elapsed: 286 ms, giving up.
+2024-12-13 22:03:23.200 [info] Lock '/home/allyelvis6569/.codeoss/data/User/workspaceStorage/6c8c33da-1/vscode.lock': Lock acquired.
+2024-12-13 22:03:23.889 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-12-13 22:03:24.136 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-12-13 22:03:24.136 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-12-13 22:03:24.622 [info] Eager extensions activated
+2024-12-13 22:03:24.623 [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 22:03:24.624 [info] ExtensionService#_doActivateExtension google.cloud-shell, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 22:03:24.624 [info] ExtensionService#_doActivateExtension googlecloudtools.cloudcode, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 22:03:24.625 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 22:03:24.625 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-12-13 22:03:27.504 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-13 22:03:27.505 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-12-13 22:03:27.507 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'

@@ -1,0 +1,234 @@
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mStep 1: Cloning or Pulling Repositories[0m
+[0;32mUpdating retail_pos...[0m
+[0;32mUpdating restaurant_pos...[0m
+[0;32mUpdating hotel_pms...[0m
+[0;32mRepositories cloned or updated.[0m
+[0;32mStep 2: Installing Dependencies[0m
+[0;31mNo recognized dependency manager found for retail_pos.[0m
+[0;31mNo recognized dependency manager found for restaurant_pos.[0m
+[0;31mNo recognized dependency manager found for hotel_pms.[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 3: Building Docker Images[0m
+[0;31mNo Dockerfile found for retail_pos.[0m
+[0;31mNo Dockerfile found for restaurant_pos.[0m
+[0;31mNo Dockerfile found for hotel_pms.[0m
+[0;32mDocker images built.[0m
+[0;32mStep 4: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created.[0m
+[0;32mStep 5: Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Generating Build Artifacts[0m
+[0;31mNo recognized build system found for retail_pos.[0m
+[0;31mNo recognized build system found for restaurant_pos.[0m
+[0;31mNo recognized build system found for hotel_pms.[0m
+[0;32mBuild artifacts generated in /home/allyelvis6569/aenzbi_suite/artifacts.[0m
+[0;32mBuild and generation process completed successfully# Final Step: Verify and Finish{NC}
+[0;32mArtifacts are available in /home/allyelvis6569/aenzbi_suite/artifacts.[0m

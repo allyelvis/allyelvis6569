@@ -1,0 +1,57 @@
+[0;32mDirectories set up in /home/allyelvis6569/aenzbi_suite.[0m
+[0;32mStep 3: Cloning Repositories or Initializing Projects[0m
+[0;32mProjects initialized.[0m
+[0;32mStep 4: Installing Dependencies[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 5: Setting Up Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Building and Deploying Applications[0m
+[0;32mApplications deployed.[0m
+[0;32mStep 7: Generating Reports[0m
+[0;32mReports saved to /home/allyelvis6569/aenzbi_suite/reports.txt.[0m
+[0;32mAutomation process completed successfully# Final message{NC}
+[0;32mStep 1: Checking and Installing Prerequisites[0m
+[0;32mPrerequisites installed successfully.[0m
+[0;32mStep 2: Setting Up Project Directories[0m
+[0;32mDirectories set up in /home/allyelvis6569/aenzbi_suite.[0m
+[0;32mStep 3: Cloning Repositories or Initializing Projects[0m
+[0;32mProjects initialized.[0m
+[0;32mStep 4: Installing Dependencies[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 5: Setting Up Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Building and Deploying Applications[0m
+[0;32mApplications deployed.[0m
+[0;32mStep 7: Generating Reports[0m
+[0;32mReports saved to /home/allyelvis6569/aenzbi_suite/reports.txt.[0m
+[0;32mAutomation process completed successfully# Final message{NC}
+[0;32mStep 1: Checking and Installing Prerequisites[0m
+[0;32mPrerequisites installed successfully.[0m
+[0;32mStep 2: Setting Up Project Directories[0m
+[0;32mDirectories set up in /home/allyelvis6569/aenzbi_suite.[0m
+[0;32mStep 3: Cloning Repositories or Initializing Projects[0m
+[0;32mProjects initialized.[0m
+[0;32mStep 4: Installing Dependencies[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 5: Setting Up Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 6: Building and Deploying Applications[0m
+[0;32mApplications deployed.[0m
+[0;32mStep 7: Generating Reports[0m
+[0;32mReports saved to /home/allyelvis6569/aenzbi_suite/reports.txt.[0m
+[0;32mAutomation process completed successfully# Final message{NC}
+[0;32mStep 1: Checking and Installing Prerequisites[0m
+[0;32mPrerequisites installed successfully.[0m
+[0;32mStep 2: Setting Up Project Directories[0m
+[0;32mDirectories set up in /home/allyelvis6569/aenzbi_suite.[0m
+[0;32mStep 3: Cloning Repositories or Initializing Projects[0m
+[0;32mProjects initialized.[0m
+[0;32mStep 4: Installing Dependencies[0m
+[0;32mDependencies installed.[0m
+[0;32mStep 5: Creating Docker Compose Configuration[0m
+[0;32mDocker Compose configuration created at /home/allyelvis6569/aenzbi_suite/docker-compose.yml.[0m
+[0;32mStep 6: Building and Running Docker Containers[0m
+[0;32mDocker containers are running.[0m
+[0;32mStep 7: Verifying Services[0m
+[0;32mAll services are running successfully.[0m
+[0;32mAutomation process completed successfully# Final message{NC}

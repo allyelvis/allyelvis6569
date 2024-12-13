@@ -1,0 +1,32 @@
+version: '3.8'
+services:
+  retail_pos:
+    image: retail_pos:latest
+    build:
+      context: ./retail_pos
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./retail_pos:/app
+    restart: always
+
+  restaurant_pos:
+    image: restaurant_pos:latest
+    build:
+      context: ./restaurant_pos
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./restaurant_pos:/app
+    restart: always
+
+  hotel_pms:
+    image: hotel_pms:latest
+    build:
+      context: ./hotel_pms
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./hotel_pms:/app
+    restart: always
+
