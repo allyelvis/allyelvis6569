@@ -520,3 +520,6 @@ echo "4. Handle OOB Code"
 echo "Choose an option (1-4):"
 read -r option
 case $option in     1)         initiate_action "verifyEmail";         ;;     2)         initiate_action "resetPassword";         ;;     3)         initiate_action "recoverEmail";         ;;     4)         echo "Enter the OOB Code:";         read -r oobCode;         echo "Enter the mode (verifyEmail, resetPassword, recoverEmail):";         read -r mode;         handle_oob_code "$oobCode" "$mode";         ;;     *)         echo "Invalid option.";         ;; esac
+cd
+git config --global user.email "alyelvis6569@gmail.com"
+git config --global user.name "allyelvis"
